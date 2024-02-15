@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Lakshyadipkumar Patel</h1>
-<h3 align="center">A Passionate about Development | Communities</h3>
+<h3 align="center">A Passionate about Development | Open Source Communities</h3>
+<img align="right" alt="coding" height="300 width="400" src="https://github.com/laxdippatel/Java-College-Programs/blob/main/186170307078_AJAVA_PRACTICAL_1_TO_15/3d.gif?raw=true">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=laxdippatel&label=Profile%20views&color=0e75b6&style=flat" alt="laxdippatel" /> </p>
 
@@ -9,7 +10,7 @@
 
 - 🌱 I’m currently learning **Data Analytics | Python**
 
-- 👯 I’m looking to collaborate on **Android | Web Development**
+- 👯 I’m looking to collaborate on **Android | Web Development | Community**
 
 - 💬 Ask me about **Android | Open Source Communities | WebDev**
 
