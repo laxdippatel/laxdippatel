@@ -7,9 +7,8 @@
 <p align="left"> <a href="https://twitter.com/laxdippatel" target="blank"><img src="https://img.shields.io/twitter/follow/laxdippatel?logo=twitter&style=for-the-badge" alt="laxdippatel" /></a> </p>
     🐱‍🏍  [Portfolio](https://laxdippatel.netlify.app//)
 
-- 🔭 I’m currently working on [ChaitanyaAI](https://chaitanya-ai.vercel.app/)
 
-- 🌱 I’m currently learning **Data Analytics | Python**
+- 🌱 I’m currently learning **Data Engineering | Python**
 
 - 👯 I’m looking to collaborate on **Android | Web Development | Community**
 
