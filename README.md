@@ -12,7 +12,7 @@
 
 - 👯 I’m looking to collaborate on **Android | Web Development | Community**
 
-- 💬 Ask me about **Android | Open Source Communities | WebDev**
+- 💬 Ask me about **Android | Open Source Communities | Data Analysis**
 
 - 📫 How to reach me **laxdippatel3333@gmail.com**
 
