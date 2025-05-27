@@ -12,11 +12,11 @@
 
 - 👯 I’m looking to collaborate on **AI/Data Engineering | Web Development | Community**
 
-- 💬 Ask me about **Android | Open Source Communities | Data Analysis**
+- 💬 Ask me about **Open Source Communities | Data Analysis**
 
 - 📫 How to reach me **laxdippatel3333@gmail.com**
 
-- ⚡ Fun fact **Love to Contributing Open source Communities**
+- ⚡ Fun fact **Love contributing to Open source Communities**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
