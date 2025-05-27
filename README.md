@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **Data Engineering | Python**
 
-- 👯 I’m looking to collaborate on **Android | Web Development | Community**
+- 👯 I’m looking to collaborate on **AI/Data Engineering | Web Development | Community**
 
 - 💬 Ask me about **Android | Open Source Communities | Data Analysis**
 
